@@ -1,0 +1,18 @@
+Funcion de los comandos
+
+git: Sirve para llevar un historial de nuestras actividades y tambien para el trabajo colaborativo en diversas ramas
+
+<git add> + algun archivo (nombre del archivo con su extension) = agregar al observatorio
+
+<git status> = Muestra el status actual de git
+
+<git commit -am> + (texto informativo//descriptivo) = agregar al repositorio
+
+<git branch> + (nombre de la rama) = hacer otra rama
+
+<git branch> = checar las ramas que hay
+
+<git checkout> = cambiar entre las ramas que estemos trabajando
+
+*rama = version
+
