@@ -1,3 +1,6 @@
+preciomnzana= 7
+cantidadmanzana=10
 print("Hola buenas tardes")
 print("total: ")
 print(10*7)
+print(preciomnzana*cantidadmanzana)
